@@ -21,8 +21,12 @@
 }
 
 #restartBtn {
-    width: 100px;
-    height: 30px;
+    
     font-size: 20px;
     color: tomato;
+    border: 1px solid tomato;
+    border-radius: 40px;
+    padding: 5px 20px;
+    cursor: pointer;
+    background: white;
 }
