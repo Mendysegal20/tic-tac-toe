@@ -4,7 +4,7 @@
 A simple Tic-Tac-Toe web game built with HTML, CSS, and JavaScript, deployed on Netlify.
 
 ## 🎮 Live Demo
-[Play the game online:](tic-tac-toe-mendy.netlify.app/)
+[Play the game online](tic-tac-toe-mendy.netlify.app/)
 
 
 ## 🎥 Screenshot of the game
